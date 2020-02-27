@@ -274,6 +274,8 @@
                 7. Wajib Melakukan Regis & TM pasca lolos tahap 1 <br>
                 8. Wajib memberikan Dokumentasi berupa video/ foto dalam tahap 2 competisi<br><br>
 
+                <b>format proposal</b> <a href="https://drive.google.com/file/d/13DXPlaUHA9jndrZMGfLg8k-zeuwAlehR/view?usp=sharing"><i>download disini</i></a><br><br>
+
                 <b>Contact Person : 0811-622-500 (Iqbal Ridho)</b>
               </p>
               <div class="card">
