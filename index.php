@@ -262,8 +262,7 @@
                 3. Umur 18-24 Tahun <br>
                 4. Tidak dapat mengganti peserta yang sudah didaftarkan  <br>
                 5. Telah melakukan pembayaran Rp 180.000 dan mengirim proposal<br>
-                6. Wajib Melakukan Regis & TM pasca lolos tahap 1 <br>
-                7. Wajib memberikan Dokumentasi berupa video/ foto dalam tahap 2 competisi <br><br>
+                6. Wajib memberikan Dokumentasi berupa video/ foto dalam tahap 2 competisi <br><br>
                 <b>Rules IOT ComTest SMA/Sederajat : </b><br>
                 1. Siswa active & Bersekolah di tempat yang sama  <br>
                 2. KTM  <br>
@@ -271,8 +270,7 @@
                 4. MAX peserta 3 Orang  <br>
                 5. Tidak dapat mengganti peserta yang sudah didaftarkan  <br>
                 6. Telah melakukan pembayaran Rp 180.000 dan mengirim proposal<br>
-                7. Wajib Melakukan Regis & TM pasca lolos tahap 1 <br>
-                8. Wajib memberikan Dokumentasi berupa video/ foto dalam tahap 2 competisi<br><br>
+                7. Wajib memberikan Dokumentasi berupa video/ foto dalam tahap 2 competisi<br><br>
 
                 <b>format proposal</b> <a href="https://drive.google.com/file/d/13DXPlaUHA9jndrZMGfLg8k-zeuwAlehR/view?usp=sharing"><i>download disini</i></a><br><br>
 
@@ -530,7 +528,7 @@
                     <p>
                         <b>Biaya Pendaftaran : </b></br><br>
                         <b>Kategori Junior : </b><br>
-                        <i><h3>Rp 100.000/Tim</h3></i>
+                        <i><h3>Rp 135.000/Tim</h3></i>
                     </p>
                     <p>
                         <b>Kategori Senior : </b><br>
