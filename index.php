@@ -565,7 +565,7 @@
                 7. Peserta menggunakan Akun game sendiri. <br>
                 8. Peserta bukanlah  professional player. <br>
                 9. Technical Meeting akan dilakukan secara online di grup WhatsApp <br><br>
-                <b>Contact Person : 0859-3922-1125 (Iqbal Nugroho)</b><br>
+                <b>Contact Person : 0813-8258-6663 ( Fauzan )</b><br>
               </p>
               <div class="card">
                 <div class="card-body">
